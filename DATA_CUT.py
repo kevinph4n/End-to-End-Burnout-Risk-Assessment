@@ -1,10 +1,8 @@
 import pandas as pd
 
 try:
-    # Đọc file gốc
     df = pd.read_csv('mental_health_burnout_prediction_dataset.csv')
 
-    # Danh sách các cột theo yêu cầu của bạn + biến mục tiêu (Burnout_Risk)
     selected_columns = [
         'Age', 
         'Gender',
@@ -18,13 +16,12 @@ try:
         'Coffee_Cups_Per_Day', 
         'Stress_Level',
         'Chronic_Stress',
-        'Burnout_Risk' # Biến mục tiêu bắt buộc phải giữ để train model
+        'Burnout_Risk' # Target for model training
     ]
 
-    # Cắt dataframe
+    # dataframe (cut)
     new_df = df[selected_columns]
 
-    # Lưu thành file CSV mới
     output_filename = 'user_selected_features.csv'
     new_df.to_csv(output_filename, index=False)
 
