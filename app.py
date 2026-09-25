@@ -17,7 +17,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("early burnout risk prediction")
+st.title("early burnout risk prediction", anchor = False)
 
 @st.cache_resource
 def load_resources():
