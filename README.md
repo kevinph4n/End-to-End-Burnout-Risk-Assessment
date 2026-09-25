@@ -5,7 +5,6 @@ End-to-End Machine Learning web application for predicting **burnout risk levels
 The project covers the complete machine learning workflow, from data preprocessing and exploratory data analysis to model training, evaluation, explainability, and deployment with Streamlit.
 
 [![Mathematics & Computer Science](https://img.shields.io/badge/Mathematics%20%26%20Computer%20Science-Student-003B73)](https://www.hcmus.edu.vn/)
-[![Undergraduate](https://img.shields.io/badge/Undergraduate-Student-003B73)](https://www.hcmus.edu.vn/)
 [![Python](https://img.shields.io/badge/Python-Learning-6A0DAD?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas)](https://pandas.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
