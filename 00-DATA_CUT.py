@@ -24,5 +24,5 @@ try:
     print(f"Successfully created {output_filename} with columns:")
     print(existing_columns)
     print(f"\nShape: {df_filtered.shape}")
-except Exception as e:
+except Exception as e: 
     print(f"Error: {e}")
