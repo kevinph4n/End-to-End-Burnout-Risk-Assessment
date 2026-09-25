@@ -10,7 +10,7 @@ try:
         'Screen_Time_Hours', 'Sleep_Hours', 'Sleep_Quality', 
         'Physical_Activity_Hours', 'Meditation_Minutes', 
         'Coffee_Cups_Per_Day', 'Stress_Level', 'Chronic_Stress',
-        'Burnout_Risk', 'Occupation'
+        'Burnout_Risk', 'Occupation', 'Education_Level'
     ]
     
     # Filter dataframe (handling missing columns if any)
