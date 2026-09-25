@@ -20,7 +20,11 @@ The project covers the complete machine learning workflow, from data preprocessi
 
 ## Demo
 
-![Application Preview](Assets/demo.png)
+![Application Preview](Assets/0.4_hypothesis_dashboard.png)
+
+![Application Preview](Assets/1.png)
+
+![Application Preview](Assets/2.png)
 
 ---
 
