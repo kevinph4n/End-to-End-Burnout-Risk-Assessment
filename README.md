@@ -241,6 +241,11 @@ This project was built as a practical exercise in applying the concepts of an **
 * Saving and loading trained models
 * Building ML applications
 * Deploying models through Streamlit
+---
+## Data Set: Mental Health & Burnout Prediction Dataset
+* Kaggle: https://www.kaggle.com/datasets/mobeenfatimah/mental-health-and-burnout-prediction-dataset
+* Author: Mobeen Fatima
+* License: Apache 2.0
 
 ---
 
