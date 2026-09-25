@@ -124,7 +124,7 @@ SHAP is used to investigate which features contribute to individual predictions 
 This helps move the application beyond simply returning:
 
 ```text
-Assigned class: 0 / 1 / 2 - ___
+Assigned class: 0 / 1 / 2 - ___ Risk
 ```
 
 and toward providing information about **why the model produced that prediction**.
