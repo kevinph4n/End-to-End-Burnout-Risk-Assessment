@@ -5,7 +5,6 @@ End-to-End Machine Learning web application for predicting **burnout risk levels
 The project covers the complete machine learning workflow, from data preprocessing and exploratory data analysis to model training, evaluation, explainability, and deployment with Streamlit.
 
 [![Mathematics & Computer Science](https://img.shields.io/badge/Mathematics%20%26%20Computer%20Science-Student-003B73)](https://www.hcmus.edu.vn/)
-[![Undergraduate](https://img.shields.io/badge/Undergraduate-Student-003B73)](https://www.hcmus.edu.vn/)
 [![Python](https://img.shields.io/badge/Python-Learning-6A0DAD?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas)](https://pandas.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
@@ -23,8 +22,14 @@ The project covers the complete machine learning workflow, from data preprocessi
 
 ## Demo
 
-![Application Preview](Assets/demo.png)
+![Application Preview](Assets/0.4_hypothesis_dashboard.png)
+> Hypothesis Dashboard
 
+![Application Preview](Assets/1.png)
+> app.py Demo (on streamlit)
+
+![Application Preview](Assets/2.png)
+> CM before and after hyperparameter-tuning
 ---
 
 ## Project Overview
@@ -123,7 +128,7 @@ SHAP is used to investigate which features contribute to individual predictions 
 This helps move the application beyond simply returning:
 
 ```text
-Predicted Risk: High
+Assigned class: 0 / 1 / 2 - ___ Risk
 ```
 
 and toward providing information about **why the model produced that prediction**.
@@ -240,6 +245,11 @@ This project was built as a practical exercise in applying the concepts of an **
 * Saving and loading trained models
 * Building ML applications
 * Deploying models through Streamlit
+---
+## Data Set: Mental Health & Burnout Prediction Dataset
+* Kaggle: https://www.kaggle.com/datasets/mobeenfatimah/mental-health-and-burnout-prediction-dataset
+* Author: Mobeen Fatima
+* License: Apache 2.0
 
 ---
 
