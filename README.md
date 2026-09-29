@@ -17,6 +17,8 @@ The project covers the complete machine learning workflow, from data preprocessi
 
 > **DISCLAIMER:** This project is intended for educational and personal portfolio purposes only. It is **NOT** a medical diagnostic tool and should **NOT** be used as a substitute for professional medical advice, diagnosis, or treatment.
 
+## Tech Stack: Pandas, Matplotlib, Seaborn, Scikit-learn, Joblib, RandomForest (ML)
+
 ---
 
 ## Demo
