@@ -25,9 +25,6 @@ The project covers the complete machine learning workflow, from data preprocessi
 ![Application Preview](Assets/0.4_hypothesis_dashboard.png)
 > Hypothesis Dashboard
 
-![Application Preview](Assets/1.png)
-> app.py Demo (on streamlit)
-
 ![Application Preview](Assets/2.png)
 > CM before and after hyperparameter-tuning
 ---
